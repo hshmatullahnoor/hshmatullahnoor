@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Hshmatullah Noor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Python+%26+JavaScript+Enthusiast;Building+Cool+Bots+%26+Apps;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Python+%26+PHP+Enthusiast;Building+Cool+Bots+%26+Apps;Always+Learning+New+Things" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/hshmatullahnoor?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=6c63ff)](https://github.com/hshmatullahnoor)
 [![Profile Views](https://komarev.com/ghpvc/?username=hshmatullahnoor&style=for-the-badge&color=6c63ff)](https://github.com/hshmatullahnoor)
@@ -18,7 +18,7 @@ class Developer:
     def __init__(self):
         self.name = "Hshmatullah Noor"
         self.role = "Full Stack Developer"
-        self.languages = ["Python", "JavaScript", "TypeScript"]
+        self.languages = ["Python", "PHP", "JavaScript", "TypeScript"]
         self.interests = ["Bot Development", "Web Apps", "Automation"]
         
     def say_hi(self):
@@ -36,16 +36,17 @@ me.say_hi()
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Telebot](https://img.shields.io/badge/Telebot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -86,7 +87,7 @@ me.say_hi()
 
 ---
 
-## �� Connect with Me
+## 🌐 Connect with Me
 
 <div align="center">
 
